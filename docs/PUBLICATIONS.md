@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: template
 title: "Publications"
-permalink: /publications/
+filename: PUBLICATIONS.md
 ---
 
 Research is a primary output of this project, and the publications and preprints which come out of the project are posted here:
