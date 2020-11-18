@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: Page
 title: "Publications"
 path: /publications/
 ---
