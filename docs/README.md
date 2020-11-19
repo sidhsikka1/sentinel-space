@@ -7,4 +7,4 @@ Creating spacecraft that are both autonomous and able to coordinate with each ot
 #### ADC also has uses in multiple domains ####
 The context of this research is the autonomous distributed coordination of satellites, as spacecraft will benefit the most from more developed autonomy and coordination. Their environment is resource restricted, and the nature of their environment makes human intervention more difficult than in any other environment on Earth. However, autonomy and coordination of distributed systems is useful for far more than just spacecraft. The portion of this research which is focused on developing autonomous architecture and coordination plans is entirely general, and the research will be conducted in such a way as to produce theory and tooling which applies to more than just the spacecraft environment.
 
-### [Publications](./publications/) ###
+### [Publications](./publications.html) ###
