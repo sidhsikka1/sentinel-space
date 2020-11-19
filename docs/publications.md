@@ -1,6 +1,7 @@
 ---
 title: Publications
 layout: page
+permalink: /publications/
 ---
 Research is a primary output of this project, and the publications and preprints which come out of the project are posted here:
 
